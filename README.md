@@ -1,6 +1,6 @@
 # Windfarm-Bivalve-Habitat-Overlap
 
-# Code for Sun et al., Disproportionate Overlap Between Offshore Wind Development Footprint and Suitable Bivalve Habitat in the Mid-Atlantic (manuscript under review).
+Code for Sun et al., Offshore Wind Areas Overlap High-Quality Habitat Unevenly Across Bivalve Species in the U.S. Mid-Atlantic (manuscript under review).
 
 Overview
 This repository contains R scripts used to model habitat suitability for Atlantic surfclam, ocean quahog, and Atlantic sea scallop in the U.S. Mid-Atlantic and compare suitable habitat with offshore wind energy areas (WEAs). The analyses include:
